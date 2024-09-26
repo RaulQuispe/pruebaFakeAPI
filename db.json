@@ -127,38 +127,6 @@
       "creator": "Steven Spielberg",
       "image": "https://via.placeholder.com/150x200?text=Schindlers+List",
       "genre": "Drama"
-    },
-    {
-      "id": 17,
-      "title": "The Shawshank Redemption",
-      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "creator": "Frank Darabont",
-      "image": "https://via.placeholder.com/150x200?text=Shawshank+Redemption",
-      "genre": "Drama"
-    },
-    {
-      "id": 18,
-      "title": "The Lion King",
-      "description": "Lion cub Simba struggles to accept the responsibilities of adulthood and his destiny as king.",
-      "creator": "Roger Allers & Rob Minkoff",
-      "image": "https://via.placeholder.com/150x200?text=The+Lion+King",
-      "genre": "Animation"
-    },
-    {
-      "id": 19,
-      "title": "The Avengers",
-      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-      "creator": "Joss Whedon",
-      "image": "https://via.placeholder.com/150x200?text=The+Avengers",
-      "genre": "Action"
-    },
-    {
-      "id": 20,
-      "title": "The Matrix Reloaded",
-      "description": "Neo and his allies race against time before the machines breach Zion, while also attempting to unlock the secrets of the Matrix.",
-      "creator": "The Wachowskis",
-      "image": "https://via.placeholder.com/150x200?text=The+Matrix+Reloaded",
-      "genre": "Sci-Fi"
     }
   ],
   "movies-recent": [
@@ -225,22 +193,6 @@
       "creator": "Baz Luhrmann",
       "image": "https://via.placeholder.com/150x200?text=Elvis",
       "genre": "Biography"
-    },
-    {
-      "id": 9,
-      "title": "Everything Everywhere All at Once",
-      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure where she alone can save existence.",
-      "creator": "Daniel Kwan & Daniel Scheinert",
-      "image": "https://via.placeholder.com/150x200?text=Everything+Everywhere",
-      "genre": "Sci-Fi"
-    },
-    {
-      "id": 10,
-      "title": "The Fabelmans",
-      "description": "Growing up in post-World War II era Arizona, young Sammy Fabelman falls in love with movies and starts making his own.",
-      "creator": "Steven Spielberg",
-      "image": "https://via.placeholder.com/150x200?text=The+Fabelmans",
-      "genre": "Drama"
     }
   ]
 }
