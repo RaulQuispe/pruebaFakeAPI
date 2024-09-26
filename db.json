@@ -69,6 +69,148 @@
       "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
       "creator": "Bong Joon Ho",
       "image": "https://via.placeholder.com/150x200?text=Parasite"
+    },
+    {
+      "id": 11,
+      "title": "The Dark Knight",
+      "description": "Batman battles the Joker in Gotham, fighting crime while dealing with personal loss.",
+      "creator": "Christopher Nolan",
+      "image": "https://via.placeholder.com/150x200?text=The+Dark+Knight"
+    },
+    {
+      "id": 12,
+      "title": "Gladiator",
+      "description": "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "creator": "Ridley Scott",
+      "image": "https://via.placeholder.com/150x200?text=Gladiator"
+    },
+    {
+      "id": 13,
+      "title": "Fight Club",
+      "description": "An insomniac office worker forms an underground fight club that evolves into something much more.",
+      "creator": "David Fincher",
+      "image": "https://via.placeholder.com/150x200?text=Fight+Club"
+    },
+    {
+      "id": 14,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "creator": "Francis Ford Coppola",
+      "image": "https://via.placeholder.com/150x200?text=The+Godfather"
+    },
+    {
+      "id": 15,
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "creator": "Quentin Tarantino",
+      "image": "https://via.placeholder.com/150x200?text=Pulp+Fiction"
+    },
+    {
+      "id": 16,
+      "title": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "creator": "Steven Spielberg",
+      "image": "https://via.placeholder.com/150x200?text=Schindlers+List"
+    },
+    {
+      "id": 17,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "creator": "Frank Darabont",
+      "image": "https://via.placeholder.com/150x200?text=Shawshank+Redemption"
+    },
+    {
+      "id": 18,
+      "title": "The Lion King",
+      "description": "Lion cub Simba struggles to accept the responsibilities of adulthood and his destiny as king.",
+      "creator": "Roger Allers & Rob Minkoff",
+      "image": "https://via.placeholder.com/150x200?text=The+Lion+King"
+    },
+    {
+      "id": 19,
+      "title": "The Avengers",
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "creator": "Joss Whedon",
+      "image": "https://via.placeholder.com/150x200?text=The+Avengers"
+    },
+    {
+      "id": 20,
+      "title": "The Matrix Reloaded",
+      "description": "Neo and his allies race against time before the machines breach Zion, while also attempting to unlock the secrets of the Matrix.",
+      "creator": "The Wachowskis",
+      "image": "https://via.placeholder.com/150x200?text=The+Matrix+Reloaded"
+    }
+  ],
+  "movies-recent": [
+    {
+      "id": 1,
+      "title": "Spider-Man: No Way Home",
+      "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help, but things become even more dangerous.",
+      "creator": "Jon Watts",
+      "image": "https://via.placeholder.com/150x200?text=Spider-Man+No+Way+Home"
+    },
+    {
+      "id": 2,
+      "title": "Dune: Part Two",
+      "description": "Paul Atreides unites with the Fremen to exact revenge against the conspirators who destroyed his family.",
+      "creator": "Denis Villeneuve",
+      "image": "https://via.placeholder.com/150x200?text=Dune+Part+Two"
+    },
+    {
+      "id": 3,
+      "title": "The Batman",
+      "description": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues.",
+      "creator": "Matt Reeves",
+      "image": "https://via.placeholder.com/150x200?text=The+Batman"
+    },
+    {
+      "id": 4,
+      "title": "Top Gun: Maverick",
+      "description": "After more than thirty years of service, Maverick is still pushing the envelope as a top naval aviator.",
+      "creator": "Joseph Kosinski",
+      "image": "https://via.placeholder.com/150x200?text=Top+Gun+Maverick"
+    },
+    {
+      "id": 5,
+      "title": "No Time to Die",
+      "description": "James Bond has left active service. His peace is short-lived when an old friend from the CIA turns up asking for help.",
+      "creator": "Cary Joji Fukunaga",
+      "image": "https://via.placeholder.com/150x200?text=No+Time+to+Die"
+    },
+    {
+      "id": 6,
+      "title": "Black Panther: Wakanda Forever",
+      "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+      "creator": "Ryan Coogler",
+      "image": "https://via.placeholder.com/150x200?text=Wakanda+Forever"
+    },
+    {
+      "id": 7,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "description": "Doctor Strange teams up with a mysterious teenage girl from his dreams to battle multiverse threats.",
+      "creator": "Sam Raimi",
+      "image": "https://via.placeholder.com/150x200?text=Doctor+Strange+2"
+    },
+    {
+      "id": 8,
+      "title": "Elvis",
+      "description": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star.",
+      "creator": "Baz Luhrmann",
+      "image": "https://via.placeholder.com/150x200?text=Elvis"
+    },
+    {
+      "id": 9,
+      "title": "Everything Everywhere All at Once",
+      "description": "A middle-aged Chinese immigrant is swept up into an insane adventure where she alone can save existence.",
+      "creator": "Daniel Kwan & Daniel Scheinert",
+      "image": "https://via.placeholder.com/150x200?text=Everything+Everywhere"
+    },
+    {
+      "id": 10,
+      "title": "The Fabelmans",
+      "description": "Growing up in post-World War II era Arizona, young Sammy Fabelman falls in love with movies and starts making his own.",
+      "creator": "Steven Spielberg",
+      "image": "https://via.placeholder.com/150x200?text=The+Fabelmans"
     }
   ]
 }
