@@ -2,7 +2,7 @@
   "movies": [
     {
       "id": 1,
-      "title": "XD",
+      "title": "Matrix",
       "description": "A hacker discovers the world is a simulation and joins a rebellion against its controllers.",
       "creator": "The Wachowskis",
       "image": "https://via.placeholder.com/150x200?text=The+Matrix"
