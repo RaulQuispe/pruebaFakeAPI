@@ -5,140 +5,160 @@
       "title": "Matrix",
       "description": "A hacker discovers the world is a simulation and joins a rebellion against its controllers.",
       "creator": "The Wachowskis",
-      "image": "https://via.placeholder.com/150x200?text=The+Matrix"
+      "image": "https://via.placeholder.com/150x200?text=The+Matrix",
+      "genre": "Sci-Fi"
     },
     {
       "id": 2,
       "title": "Inception",
       "description": "A skilled thief, who steals corporate secrets through dream-sharing technology, is given a chance to erase his criminal record.",
       "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=Inception"
+      "image": "https://via.placeholder.com/150x200?text=Inception",
+      "genre": "Sci-Fi"
     },
     {
       "id": 3,
       "title": "Interstellar",
       "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=Interstellar"
+      "image": "https://via.placeholder.com/150x200?text=Interstellar",
+      "genre": "Sci-Fi"
     },
     {
       "id": 4,
       "title": "Avatar",
       "description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
       "creator": "James Cameron",
-      "image": "https://via.placeholder.com/150x200?text=Avatar"
+      "image": "https://via.placeholder.com/150x200?text=Avatar",
+      "genre": "Fantasy"
     },
     {
       "id": 5,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "description": "A young hobbit, Frodo, is tasked with destroying an ancient, powerful ring before it falls into the hands of evil.",
       "creator": "Peter Jackson",
-      "image": "https://via.placeholder.com/150x200?text=LOTR+Fellowship"
+      "image": "https://via.placeholder.com/150x200?text=LOTR+Fellowship",
+      "genre": "Fantasy"
     },
     {
       "id": 6,
       "title": "Dune",
       "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset, a drug known as 'spice'.",
       "creator": "Denis Villeneuve",
-      "image": "https://via.placeholder.com/150x200?text=Dune"
+      "image": "https://via.placeholder.com/150x200?text=Dune",
+      "genre": "Sci-Fi"
     },
     {
       "id": 7,
       "title": "Tenet",
       "description": "A protagonist embarks on a twilight mission that unfolds in a world beyond real time.",
       "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=Tenet"
+      "image": "https://via.placeholder.com/150x200?text=Tenet",
+      "genre": "Sci-Fi"
     },
     {
       "id": 8,
       "title": "The Irishman",
       "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
       "creator": "Martin Scorsese",
-      "image": "https://via.placeholder.com/150x200?text=The+Irishman"
+      "image": "https://via.placeholder.com/150x200?text=The+Irishman",
+      "genre": "Crime"
     },
     {
       "id": 9,
       "title": "Joker",
       "description": "In Gotham City, mentally troubled comedian Arthur Fleck embarks on a downward spiral of social revolution and bloody crime.",
       "creator": "Todd Phillips",
-      "image": "https://via.placeholder.com/150x200?text=Joker"
+      "image": "https://via.placeholder.com/150x200?text=Joker",
+      "genre": "Drama"
     },
     {
       "id": 10,
       "title": "Parasite",
       "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
       "creator": "Bong Joon Ho",
-      "image": "https://via.placeholder.com/150x200?text=Parasite"
+      "image": "https://via.placeholder.com/150x200?text=Parasite",
+      "genre": "Thriller"
     },
     {
       "id": 11,
       "title": "The Dark Knight",
       "description": "Batman battles the Joker in Gotham, fighting crime while dealing with personal loss.",
       "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=The+Dark+Knight"
+      "image": "https://via.placeholder.com/150x200?text=The+Dark+Knight",
+      "genre": "Action"
     },
     {
       "id": 12,
       "title": "Gladiator",
       "description": "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
       "creator": "Ridley Scott",
-      "image": "https://via.placeholder.com/150x200?text=Gladiator"
+      "image": "https://via.placeholder.com/150x200?text=Gladiator",
+      "genre": "Action"
     },
     {
       "id": 13,
       "title": "Fight Club",
       "description": "An insomniac office worker forms an underground fight club that evolves into something much more.",
       "creator": "David Fincher",
-      "image": "https://via.placeholder.com/150x200?text=Fight+Club"
+      "image": "https://via.placeholder.com/150x200?text=Fight+Club",
+      "genre": "Drama"
     },
     {
       "id": 14,
       "title": "The Godfather",
       "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
       "creator": "Francis Ford Coppola",
-      "image": "https://via.placeholder.com/150x200?text=The+Godfather"
+      "image": "https://via.placeholder.com/150x200?text=The+Godfather",
+      "genre": "Crime"
     },
     {
       "id": 15,
       "title": "Pulp Fiction",
       "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
       "creator": "Quentin Tarantino",
-      "image": "https://via.placeholder.com/150x200?text=Pulp+Fiction"
+      "image": "https://via.placeholder.com/150x200?text=Pulp+Fiction",
+      "genre": "Crime"
     },
     {
       "id": 16,
       "title": "Schindler's List",
       "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
       "creator": "Steven Spielberg",
-      "image": "https://via.placeholder.com/150x200?text=Schindlers+List"
+      "image": "https://via.placeholder.com/150x200?text=Schindlers+List",
+      "genre": "Drama"
     },
     {
       "id": 17,
       "title": "The Shawshank Redemption",
       "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       "creator": "Frank Darabont",
-      "image": "https://via.placeholder.com/150x200?text=Shawshank+Redemption"
+      "image": "https://via.placeholder.com/150x200?text=Shawshank+Redemption",
+      "genre": "Drama"
     },
     {
       "id": 18,
       "title": "The Lion King",
       "description": "Lion cub Simba struggles to accept the responsibilities of adulthood and his destiny as king.",
       "creator": "Roger Allers & Rob Minkoff",
-      "image": "https://via.placeholder.com/150x200?text=The+Lion+King"
+      "image": "https://via.placeholder.com/150x200?text=The+Lion+King",
+      "genre": "Animation"
     },
     {
       "id": 19,
       "title": "The Avengers",
       "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
       "creator": "Joss Whedon",
-      "image": "https://via.placeholder.com/150x200?text=The+Avengers"
+      "image": "https://via.placeholder.com/150x200?text=The+Avengers",
+      "genre": "Action"
     },
     {
       "id": 20,
       "title": "The Matrix Reloaded",
       "description": "Neo and his allies race against time before the machines breach Zion, while also attempting to unlock the secrets of the Matrix.",
       "creator": "The Wachowskis",
-      "image": "https://via.placeholder.com/150x200?text=The+Matrix+Reloaded"
+      "image": "https://via.placeholder.com/150x200?text=The+Matrix+Reloaded",
+      "genre": "Sci-Fi"
     }
   ],
   "movies-recent": [
@@ -147,70 +167,80 @@
       "title": "Spider-Man: No Way Home",
       "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help, but things become even more dangerous.",
       "creator": "Jon Watts",
-      "image": "https://via.placeholder.com/150x200?text=Spider-Man+No+Way+Home"
+      "image": "https://via.placeholder.com/150x200?text=Spider-Man+No+Way+Home",
+      "genre": "Action"
     },
     {
       "id": 2,
       "title": "Dune: Part Two",
       "description": "Paul Atreides unites with the Fremen to exact revenge against the conspirators who destroyed his family.",
       "creator": "Denis Villeneuve",
-      "image": "https://via.placeholder.com/150x200?text=Dune+Part+Two"
+      "image": "https://via.placeholder.com/150x200?text=Dune+Part+Two",
+      "genre": "Sci-Fi"
     },
     {
       "id": 3,
       "title": "The Batman",
       "description": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues.",
       "creator": "Matt Reeves",
-      "image": "https://via.placeholder.com/150x200?text=The+Batman"
+      "image": "https://via.placeholder.com/150x200?text=The+Batman",
+      "genre": "Action"
     },
     {
       "id": 4,
       "title": "Top Gun: Maverick",
       "description": "After more than thirty years of service, Maverick is still pushing the envelope as a top naval aviator.",
       "creator": "Joseph Kosinski",
-      "image": "https://via.placeholder.com/150x200?text=Top+Gun+Maverick"
+      "image": "https://via.placeholder.com/150x200?text=Top+Gun+Maverick",
+      "genre": "Action"
     },
     {
       "id": 5,
       "title": "No Time to Die",
       "description": "James Bond has left active service. His peace is short-lived when an old friend from the CIA turns up asking for help.",
       "creator": "Cary Joji Fukunaga",
-      "image": "https://via.placeholder.com/150x200?text=No+Time+to+Die"
+      "image": "https://via.placeholder.com/150x200?text=No+Time+to+Die",
+      "genre": "Action"
     },
     {
       "id": 6,
       "title": "Black Panther: Wakanda Forever",
       "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
       "creator": "Ryan Coogler",
-      "image": "https://via.placeholder.com/150x200?text=Wakanda+Forever"
+      "image": "https://via.placeholder.com/150x200?text=Wakanda+Forever",
+      "genre": "Action"
     },
     {
       "id": 7,
       "title": "Doctor Strange in the Multiverse of Madness",
       "description": "Doctor Strange teams up with a mysterious teenage girl from his dreams to battle multiverse threats.",
       "creator": "Sam Raimi",
-      "image": "https://via.placeholder.com/150x200?text=Doctor+Strange+2"
+      "image": "https://via.placeholder.com/150x200?text=Doctor+Strange+2",
+      "genre": "Action"
     },
     {
       "id": 8,
       "title": "Elvis",
       "description": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star.",
       "creator": "Baz Luhrmann",
-      "image": "https://via.placeholder.com/150x200?text=Elvis"
+      "image": "https://via.placeholder.com/150x200?text=Elvis",
+      "genre": "Biography"
     },
     {
       "id": 9,
       "title": "Everything Everywhere All at Once",
       "description": "A middle-aged Chinese immigrant is swept up into an insane adventure where she alone can save existence.",
       "creator": "Daniel Kwan & Daniel Scheinert",
-      "image": "https://via.placeholder.com/150x200?text=Everything+Everywhere"
+      "image": "https://via.placeholder.com/150x200?text=Everything+Everywhere",
+      "genre": "Sci-Fi"
     },
     {
       "id": 10,
       "title": "The Fabelmans",
       "description": "Growing up in post-World War II era Arizona, young Sammy Fabelman falls in love with movies and starts making his own.",
       "creator": "Steven Spielberg",
-      "image": "https://via.placeholder.com/150x200?text=The+Fabelmans"
+      "image": "https://via.placeholder.com/150x200?text=The+Fabelmans",
+      "genre": "Drama"
     }
   ]
 }
