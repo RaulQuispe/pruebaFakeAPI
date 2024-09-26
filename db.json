@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Matrix",
+      "description": "A hacker discovers the world is a simulation and joins a rebellion against its controllers.",
+      "creator": "The Wachowskis",
+      "image": "https://via.placeholder.com/150x200?text=The+Matrix"
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "description": "A skilled thief, who steals corporate secrets through dream-sharing technology, is given a chance to erase his criminal record.",
+      "creator": "Christopher Nolan",
+      "image": "https://via.placeholder.com/150x200?text=Inception"
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "creator": "Christopher Nolan",
+      "image": "https://via.placeholder.com/150x200?text=Interstellar"
+    },
+    {
+      "id": 4,
+      "title": "Avatar",
+      "description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "creator": "James Cameron",
+      "image": "https://via.placeholder.com/150x200?text=Avatar"
+    },
+    {
+      "id": 5,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "A young hobbit, Frodo, is tasked with destroying an ancient, powerful ring before it falls into the hands of evil.",
+      "creator": "Peter Jackson",
+      "image": "https://via.placeholder.com/150x200?text=LOTR+Fellowship"
+    },
+    {
+      "id": 6,
+      "title": "Dune",
+      "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset, a drug known as 'spice'.",
+      "creator": "Denis Villeneuve",
+      "image": "https://via.placeholder.com/150x200?text=Dune"
+    },
+    {
+      "id": 7,
+      "title": "Tenet",
+      "description": "A protagonist embarks on a twilight mission that unfolds in a world beyond real time.",
+      "creator": "Christopher Nolan",
+      "image": "https://via.placeholder.com/150x200?text=Tenet"
+    },
+    {
+      "id": 8,
+      "title": "The Irishman",
+      "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+      "creator": "Martin Scorsese",
+      "image": "https://via.placeholder.com/150x200?text=The+Irishman"
+    },
+    {
+      "id": 9,
+      "title": "Joker",
+      "description": "In Gotham City, mentally troubled comedian Arthur Fleck embarks on a downward spiral of social revolution and bloody crime.",
+      "creator": "Todd Phillips",
+      "image": "https://via.placeholder.com/150x200?text=Joker"
+    },
+    {
+      "id": 10,
+      "title": "Parasite",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "creator": "Bong Joon Ho",
+      "image": "https://via.placeholder.com/150x200?text=Parasite"
+    }
+  ]
+}
