@@ -29,18 +29,6 @@
   ],
   "content": [
     {
-      "contentId": "45",
-      "creatorId": "2",
-      "type": "movie",
-      "title": "Call me",
-      "description": "Comedia optimista sobre un grupo de amigos que se embarcan en un viaje de autodescubrimiento durante un retiro de verano",
-      "category": "comedia",
-      "objective": "desconectar",
-      "feeling": "cansado",
-      "image": "https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c",
-      "creator": "Calm Waves Studios"
-    },
-    {
       "contentId": "98",
       "creatorId": "654",
       "type": "movie",
@@ -51,18 +39,6 @@
       "feeling": "motivado",
       "image": "https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_.jpg",
       "creator": "Telecinco Cinema"
-    },
-    {
-      "contentId": "127",
-      "creatorId": "27",
-      "type": "movie",
-      "title": "Breathing Space",
-      "description": "Una película relajante que enseña técnicas de respiración y mindfulness para ayudar a calmar la mente y reducir la ansiedad.",
-      "category": "documentary",
-      "objective": "relajarme",
-      "feeling": "ansioso",
-      "image": "https://rukminim2.flixcart.com/image/850/1000/l0tweq80/book/w/8/n/breathing-space-original-imagcjb7hcgsjwff.jpeg?q=90&crop=false",
-      "creator": "Calm Waves Studios"
     },
     {
       "contentId": "128",
