@@ -185,18 +185,6 @@
       "feeling": "cansado",
       "image": "https://images.justwatch.com/poster/9641786/s718/el-viaje-de-jane.jpg",
       "creator": "Serenity Films"
-    },
-    {
-      "contentId": "126",
-      "creatorId": "26",
-      "type": "movie",
-      "title": "The Healing Path",
-      "description": "Una inspiradora historia de superación y sanación emocional a través de la conexión con la naturaleza.",
-      "category": "aventura",
-      "objective": "relajarme",
-      "feeling": "estresado",
-      "image": "https://m.media-amazon.com/images/I/61BUAfmN4BL._AC_UF350,350_QL50_.jpg",
-      "creator": "Wellness Cinemas"
     }
   ],
   "forums": [
@@ -219,6 +207,26 @@
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
       "image": "https://m.media-amazon.com/images/I/51cBcwYsOVL._SX425_.jpg",
       "score": "3"
+    },
+    {
+      "postId": "934",
+      "userId": "2",
+      "contentId": "46",
+      "title": "The Impossible",
+      "commentBy": "Laura Castañeda",
+      "comment": "Vivamus facilisis elit ac dui vehicula, non egestas ligula placerat. Nulla facilisi. Cras volutpat odio non lectus ullamcorper, a malesuada purus vehicula.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_.jpg",
+      "score": "4"
+    },
+    {
+      "postId": "978",
+      "userId": "3",
+      "contentId": "47",
+      "title": "The Sunshine Mind",
+      "commentBy": "María Gómez",
+      "comment": "Fusce eu urna vulputate, tincidunt magna et, fermentum libero. Maecenas a nisi id lorem consequat aliquam a nec ligula. Vestibulum eget tincidunt lacus.",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661865304l/60693290.jpg",
+      "score": "4"
     }
   ],
   "events": [
