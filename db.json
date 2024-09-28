@@ -113,42 +113,6 @@
       "creator": "Zen Gardens Studios"
     },
     {
-      "contentId": "132",
-      "creatorId": "32",
-      "type": "movie",
-      "title": "Mind Over Matter",
-      "description": "Este documental explora cómo las prácticas de mindfulness y meditación pueden transformar la vida cotidiana y la salud mental.",
-      "category": "documentary",
-      "objective": "aprender",
-      "feeling": "interesado",
-      "image": "https://example.com/images/mind_over_matter.jpg",
-      "creator": "Insight Films"
-    },
-    {
-      "contentId": "133",
-      "creatorId": "33",
-      "type": "movie",
-      "title": "Embracing the Present",
-      "description": "Una película que enseña la importancia de vivir en el presente y cómo esto puede mejorar el bienestar emocional.",
-      "category": "drama",
-      "objective": "desconectar",
-      "feeling": "abrumado",
-      "image": "https://example.com/images/embracing_present.jpg",
-      "creator": "Present Moment Studios"
-    },
-    {
-      "contentId": "134",
-      "creatorId": "34",
-      "type": "movie",
-      "title": "The Power of Gratitude",
-      "description": "Un inspirador documental que explora cómo la gratitud puede cambiar la perspectiva de las personas y mejorar su salud mental.",
-      "category": "documentary",
-      "objective": "inspirarme",
-      "feeling": "agradecido",
-      "image": "https://example.com/images/power_of_gratitude.jpg",
-      "creator": "Grateful Heart Productions"
-    },
-    {
       "contentId": "135",
       "creatorId": "35",
       "type": "movie",
@@ -245,30 +209,6 @@
       "feeling": "cansado",
       "image": "https://example.com/images/journey_to_calm.jpg",
       "creator": "Serenity Films"
-    },
-    {
-      "contentId": "124",
-      "creatorId": "24",
-      "type": "movie",
-      "title": "Laughter Therapy",
-      "description": "Un grupo de personas participa en un programa de terapia de la risa para aliviar el estrés y mejorar su bienestar emocional.",
-      "category": "comedia",
-      "objective": "relajarme",
-      "feeling": "estresado",
-      "image": "https://example.com/images/laughter_therapy.jpg",
-      "creator": "Happy Vibes Studios"
-    },
-    {
-      "contentId": "125",
-      "creatorId": "25",
-      "type": "movie",
-      "title": "Resilience",
-      "description": "Un documental que sigue las historias de personas que superan la adversidad y encuentran fuerza en su vulnerabilidad.",
-      "category": "documentary",
-      "objective": "aprender",
-      "feeling": "motivado",
-      "image": "https://example.com/images/resilience.jpg",
-      "creator": "Empowerment Films"
     },
     {
       "contentId": "126",
