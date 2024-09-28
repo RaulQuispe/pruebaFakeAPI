@@ -1,198 +1,322 @@
 {
-  "movies": [
+  "users": [
     {
-      "id": 1,
-      "title": "Matrix",
-      "description": "A hacker discovers the world is a simulation and joins a rebellion against its controllers.",
-      "creator": "The Wachowskis",
-      "image": "https://via.placeholder.com/150x200?text=The+Matrix",
-      "genre": "Sci-Fi"
+      "id": "ade37f54-fd5a-416f-bea7-677994756a52",
+      "name": "Piero",
+      "lastName": "Miranda",
+      "userName": "piero123",
+      "birthDate": "2000-11-25T05:00:00.000Z",
+      "phone": "897654123",
+      "type": "citizen",
+      "email": "piero@gmail.com",
+      "password": "123456",
+      "membership": "premium",
+      "apiId": "v1"
     },
     {
-      "id": 2,
-      "title": "Inception",
-      "description": "A skilled thief, who steals corporate secrets through dream-sharing technology, is given a chance to erase his criminal record.",
-      "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=Inception",
-      "genre": "Sci-Fi"
-    },
-    {
-      "id": 3,
-      "title": "Interstellar",
-      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-      "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=Interstellar",
-      "genre": "Sci-Fi"
-    },
-    {
-      "id": 4,
-      "title": "Avatar",
-      "description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-      "creator": "James Cameron",
-      "image": "https://via.placeholder.com/150x200?text=Avatar",
-      "genre": "Fantasy"
-    },
-    {
-      "id": 5,
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "description": "A young hobbit, Frodo, is tasked with destroying an ancient, powerful ring before it falls into the hands of evil.",
-      "creator": "Peter Jackson",
-      "image": "https://via.placeholder.com/150x200?text=LOTR+Fellowship",
-      "genre": "Fantasy"
-    },
-    {
-      "id": 6,
-      "title": "Dune",
-      "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset, a drug known as 'spice'.",
-      "creator": "Denis Villeneuve",
-      "image": "https://via.placeholder.com/150x200?text=Dune",
-      "genre": "Sci-Fi"
-    },
-    {
-      "id": 7,
-      "title": "Tenet",
-      "description": "A protagonist embarks on a twilight mission that unfolds in a world beyond real time.",
-      "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=Tenet",
-      "genre": "Sci-Fi"
-    },
-    {
-      "id": 8,
-      "title": "The Irishman",
-      "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
-      "creator": "Martin Scorsese",
-      "image": "https://via.placeholder.com/150x200?text=The+Irishman",
-      "genre": "Crime"
-    },
-    {
-      "id": 9,
-      "title": "Joker",
-      "description": "In Gotham City, mentally troubled comedian Arthur Fleck embarks on a downward spiral of social revolution and bloody crime.",
-      "creator": "Todd Phillips",
-      "image": "https://via.placeholder.com/150x200?text=Joker",
-      "genre": "Drama"
-    },
-    {
-      "id": 10,
-      "title": "Parasite",
-      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
-      "creator": "Bong Joon Ho",
-      "image": "https://via.placeholder.com/150x200?text=Parasite",
-      "genre": "Thriller"
-    },
-    {
-      "id": 11,
-      "title": "The Dark Knight",
-      "description": "Batman battles the Joker in Gotham, fighting crime while dealing with personal loss.",
-      "creator": "Christopher Nolan",
-      "image": "https://via.placeholder.com/150x200?text=The+Dark+Knight",
-      "genre": "Action"
-    },
-    {
-      "id": 12,
-      "title": "Gladiator",
-      "description": "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-      "creator": "Ridley Scott",
-      "image": "https://via.placeholder.com/150x200?text=Gladiator",
-      "genre": "Action"
-    },
-    {
-      "id": 13,
-      "title": "Fight Club",
-      "description": "An insomniac office worker forms an underground fight club that evolves into something much more.",
-      "creator": "David Fincher",
-      "image": "https://via.placeholder.com/150x200?text=Fight+Club",
-      "genre": "Drama"
-    },
-    {
-      "id": 14,
-      "title": "The Godfather",
-      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-      "creator": "Francis Ford Coppola",
-      "image": "https://via.placeholder.com/150x200?text=The+Godfather",
-      "genre": "Crime"
-    },
-    {
-      "id": 15,
-      "title": "Pulp Fiction",
-      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "creator": "Quentin Tarantino",
-      "image": "https://via.placeholder.com/150x200?text=Pulp+Fiction",
-      "genre": "Crime"
-    },
-    {
-      "id": 16,
-      "title": "Schindler's List",
-      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
-      "creator": "Steven Spielberg",
-      "image": "https://via.placeholder.com/150x200?text=Schindlers+List",
-      "genre": "Drama"
+      "id": "00796ff9-46a4-421e-8049-fff169aac08c",
+      "name": "Jorge",
+      "lastName": "Martinez",
+      "userName": "jorgeM",
+      "birthDate": "2000-11-25T05:00:00.000Z",
+      "phone": "4345",
+      "type": "creator",
+      "email": "jorge@gmail.com",
+      "password": "654321",
+      "membership": "platinum",
+      "apiId": "v1"
     }
   ],
-  "movies-recent": [
+  "content": [
     {
-      "id": 1,
-      "title": "Spider-Man: No Way Home",
-      "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help, but things become even more dangerous.",
-      "creator": "Jon Watts",
-      "image": "https://via.placeholder.com/150x200?text=Spider-Man+No+Way+Home",
-      "genre": "Action"
+      "contentId": "45",
+      "creatorId": "2",
+      "creator": "Jorge Martinez",
+      "type": "movie",
+      "title": "Call me",
+      "description": "Comedia optimista sobre un grupo de amigos que se embarcan en un viaje de autodescubrimiento durante un retiro de verano",
+      "category": "comedia",
+      "objective": "desconectar",
+      "feeling": "cansado",
+      "image": "https://example.com/call-me.jpg"
     },
     {
-      "id": 2,
-      "title": "Dune: Part Two",
-      "description": "Paul Atreides unites with the Fremen to exact revenge against the conspirators who destroyed his family.",
-      "creator": "Denis Villeneuve",
-      "image": "https://via.placeholder.com/150x200?text=Dune+Part+Two",
-      "genre": "Sci-Fi"
+      "contentId": "98",
+      "creatorId": "654",
+      "creator": "Ana Lopez",
+      "type": "documental",
+      "title": "Impossible",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "motivado",
+      "image": "https://example.com/impossible.jpg"
     },
     {
-      "id": 3,
-      "title": "The Batman",
-      "description": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues.",
-      "creator": "Matt Reeves",
-      "image": "https://via.placeholder.com/150x200?text=The+Batman",
-      "genre": "Action"
+      "contentId": "127",
+      "creatorId": "27",
+      "type": "movie",
+      "title": "Breathing Space",
+      "description": "Una película relajante que enseña técnicas de respiración y mindfulness para ayudar a calmar la mente y reducir la ansiedad.",
+      "category": "documentary",
+      "objective": "relajarme",
+      "feeling": "ansioso",
+      "image": "https://example.com/images/breathing_space.jpg",
+      "creator": "Calm Waves Studios"
     },
     {
-      "id": 4,
-      "title": "Top Gun: Maverick",
-      "description": "After more than thirty years of service, Maverick is still pushing the envelope as a top naval aviator.",
-      "creator": "Joseph Kosinski",
-      "image": "https://via.placeholder.com/150x200?text=Top+Gun+Maverick",
-      "genre": "Action"
+      "contentId": "128",
+      "creatorId": "28",
+      "type": "movie",
+      "title": "Sunshine on the Mind",
+      "description": "Esta película sigue las historias de personas que descubren el poder del pensamiento positivo para transformar sus vidas.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "motivado",
+      "image": "https://example.com/images/sunshine_on_mind.jpg",
+      "creator": "Positive Vibes Productions"
     },
     {
-      "id": 5,
-      "title": "No Time to Die",
-      "description": "James Bond has left active service. His peace is short-lived when an old friend from the CIA turns up asking for help.",
-      "creator": "Cary Joji Fukunaga",
-      "image": "https://via.placeholder.com/150x200?text=No+Time+to+Die",
-      "genre": "Action"
+      "contentId": "129",
+      "creatorId": "29",
+      "type": "movie",
+      "title": "The Quiet Path",
+      "description": "Explora la vida de una mujer que, a través de la práctica del silencio y la meditación, logra reconectarse consigo misma.",
+      "category": "drama",
+      "objective": "desconectar",
+      "feeling": "abrumado",
+      "image": "https://example.com/images/quiet_path.jpg",
+      "creator": "Tranquil Films"
     },
     {
-      "id": 6,
-      "title": "Black Panther: Wakanda Forever",
-      "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
-      "creator": "Ryan Coogler",
-      "image": "https://via.placeholder.com/150x200?text=Wakanda+Forever",
-      "genre": "Action"
+      "contentId": "130",
+      "creatorId": "30",
+      "type": "movie",
+      "title": "Flow State",
+      "description": "Un documental que investiga cómo las personas alcanzan el estado de flujo en actividades como el arte, el deporte y la música.",
+      "category": "documentary",
+      "objective": "aprender",
+      "feeling": "curioso",
+      "image": "https://example.com/images/flow_state.jpg",
+      "creator": "Focus Films"
     },
     {
-      "id": 7,
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "description": "Doctor Strange teams up with a mysterious teenage girl from his dreams to battle multiverse threats.",
-      "creator": "Sam Raimi",
-      "image": "https://via.placeholder.com/150x200?text=Doctor+Strange+2",
-      "genre": "Action"
+      "contentId": "131",
+      "creatorId": "31",
+      "type": "movie",
+      "title": "The Garden of Serenity",
+      "description": "Un retiro espiritual en un jardín donde las personas encuentran paz y claridad mental a través de la jardinería consciente.",
+      "category": "documentary",
+      "objective": "relajarme",
+      "feeling": "estresado",
+      "image": "https://example.com/images/garden_serenity.jpg",
+      "creator": "Zen Gardens Studios"
     },
     {
-      "id": 8,
-      "title": "Elvis",
-      "description": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star.",
-      "creator": "Baz Luhrmann",
-      "image": "https://via.placeholder.com/150x200?text=Elvis",
-      "genre": "Biography"
+      "contentId": "132",
+      "creatorId": "32",
+      "type": "movie",
+      "title": "Mind Over Matter",
+      "description": "Este documental explora cómo las prácticas de mindfulness y meditación pueden transformar la vida cotidiana y la salud mental.",
+      "category": "documentary",
+      "objective": "aprender",
+      "feeling": "interesado",
+      "image": "https://example.com/images/mind_over_matter.jpg",
+      "creator": "Insight Films"
+    },
+    {
+      "contentId": "133",
+      "creatorId": "33",
+      "type": "movie",
+      "title": "Embracing the Present",
+      "description": "Una película que enseña la importancia de vivir en el presente y cómo esto puede mejorar el bienestar emocional.",
+      "category": "drama",
+      "objective": "desconectar",
+      "feeling": "abrumado",
+      "image": "https://example.com/images/embracing_present.jpg",
+      "creator": "Present Moment Studios"
+    },
+    {
+      "contentId": "134",
+      "creatorId": "34",
+      "type": "movie",
+      "title": "The Power of Gratitude",
+      "description": "Un inspirador documental que explora cómo la gratitud puede cambiar la perspectiva de las personas y mejorar su salud mental.",
+      "category": "documentary",
+      "objective": "inspirarme",
+      "feeling": "agradecido",
+      "image": "https://example.com/images/power_of_gratitude.jpg",
+      "creator": "Grateful Heart Productions"
+    },
+    {
+      "contentId": "135",
+      "creatorId": "35",
+      "type": "movie",
+      "title": "Rising Above",
+      "description": "La historia de una persona que, a través del yoga y la meditación, encuentra la fortaleza interior para superar la adversidad.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "resiliente",
+      "image": "https://example.com/images/rising_above.jpg",
+      "creator": "Inner Strength Films"
+    }
+  ],
+  "content-recent": [
+    {
+      "contentId": "201",
+      "creatorId": "1",
+      "creator": "Piero Miranda",
+      "type": "movie",
+      "title": "The Pursuit of Happiness",
+      "description": "Un inspirador relato de lucha y superación basado en la historia real de un hombre que no se rinde.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "esperanzado",
+      "image": "https://example.com/pursuit-happiness.jpg"
+    },
+    {
+      "contentId": "202",
+      "creatorId": "2",
+      "creator": "Jorge Martinez",
+      "type": "movie",
+      "title": "Good Will Hunting",
+      "description": "Un genio no reconocido que lucha con su pasado y encuentra su verdadero propósito en la vida.",
+      "category": "drama",
+      "objective": "aprender",
+      "feeling": "reflexivo",
+      "image": "https://example.com/good-will-hunting.jpg"
+    },
+    {
+      "contentId": "203",
+      "creatorId": "3",
+      "creator": "Ana Lopez",
+      "type": "movie",
+      "title": "Inside Out",
+      "description": "Una animación que explora las emociones de una niña y cómo gestionarlas para lograr bienestar emocional.",
+      "category": "comedia",
+      "objective": "relajarme",
+      "feeling": "alegre",
+      "image": "https://example.com/inside-out.jpg"
+    },
+    {
+      "contentId": "204",
+      "creatorId": "4",
+      "creator": "Carlos Fuentes",
+      "type": "movie",
+      "title": "The Intouchables",
+      "description": "Una conmovedora historia de amistad entre un hombre tetrapléjico y su cuidador.",
+      "category": "comedia",
+      "objective": "inspirarme",
+      "feeling": "esperanzado",
+      "image": "https://example.com/intouchables.jpg"
+    },
+    {
+      "contentId": "121",
+      "creatorId": "21",
+      "type": "movie",
+      "title": "Inner Peace",
+      "description": "Un maestro de meditación guía a un grupo de personas en la búsqueda de la serenidad interior, enfrentando sus propios miedos y ansiedades.",
+      "category": "drama",
+      "objective": "relajarme",
+      "feeling": "estresado",
+      "image": "https://example.com/images/inner_peace.jpg",
+      "creator": "Zen Studios"
+    },
+    {
+      "contentId": "122",
+      "creatorId": "22",
+      "type": "movie",
+      "title": "Harmony Within",
+      "description": "Una película que explora cómo el equilibrio entre cuerpo y mente puede ayudar a superar las dificultades de la vida diaria.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "motivado",
+      "image": "https://example.com/images/harmony_within.jpg",
+      "creator": "Mindful Productions"
+    },
+    {
+      "contentId": "123",
+      "creatorId": "23",
+      "type": "movie",
+      "title": "The Journey to Calm",
+      "description": "Un hombre emprende un viaje por la naturaleza en busca de paz interior y conexión consigo mismo.",
+      "category": "aventura",
+      "objective": "desconectar",
+      "feeling": "cansado",
+      "image": "https://example.com/images/journey_to_calm.jpg",
+      "creator": "Serenity Films"
+    },
+    {
+      "contentId": "124",
+      "creatorId": "24",
+      "type": "movie",
+      "title": "Laughter Therapy",
+      "description": "Un grupo de personas participa en un programa de terapia de la risa para aliviar el estrés y mejorar su bienestar emocional.",
+      "category": "comedia",
+      "objective": "relajarme",
+      "feeling": "estresado",
+      "image": "https://example.com/images/laughter_therapy.jpg",
+      "creator": "Happy Vibes Studios"
+    },
+    {
+      "contentId": "125",
+      "creatorId": "25",
+      "type": "movie",
+      "title": "Resilience",
+      "description": "Un documental que sigue las historias de personas que superan la adversidad y encuentran fuerza en su vulnerabilidad.",
+      "category": "documentary",
+      "objective": "aprender",
+      "feeling": "motivado",
+      "image": "https://example.com/images/resilience.jpg",
+      "creator": "Empowerment Films"
+    },
+    {
+      "contentId": "126",
+      "creatorId": "26",
+      "type": "movie",
+      "title": "The Healing Path",
+      "description": "Una inspiradora historia de superación y sanación emocional a través de la conexión con la naturaleza.",
+      "category": "aventura",
+      "objective": "relajarme",
+      "feeling": "estresado",
+      "image": "https://example.com/images/healing_path.jpg",
+      "creator": "Wellness Cinemas"
+    }
+  ],
+  "forums": [
+    {
+      "postId": "263",
+      "userId": "1",
+      "contentId": "45",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
+      "score": "5"
+    },
+    {
+      "postId": "852",
+      "userId": "1",
+      "contentId": "45",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
+      "score": "3"
+    }
+  ],
+  "events": [
+    {
+      "eventId": "65",
+      "contentId": "45",
+      "title": "Event for Call me movie",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
+      "date": "2024-05-05",
+      "address": "av.primavera 123",
+      "creatorId": "2"
+    },
+    {
+      "eventId": "456",
+      "contentId": "98",
+      "title": "Event for Impossible movie",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
+      "date": "2024-02-01",
+      "address": "av.primavera 321",
+      "creatorId": "654"
     }
   ]
 }
